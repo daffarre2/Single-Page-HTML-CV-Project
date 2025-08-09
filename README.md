@@ -1,2 +1,4 @@
-# Single-Page-HTML-CV-Project
-Project: Create a CV in single page using HTML
+# Front-End Projects From Roadmap.sh
+this repository contains front-end projects built following the roadmap.sh front-end developer path
+
+## Project List
